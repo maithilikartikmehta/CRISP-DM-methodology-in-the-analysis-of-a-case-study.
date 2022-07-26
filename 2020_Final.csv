@@ -1,0 +1,1508 @@
+﻿Response_ID,What_year_were_you_born,Gender,Tenure,Industry,Organisation_size,Household_type,Metro_Regional,Productivity while working remotely
+1,1972,Female,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Regional,50% More productive
+2,1972,Male,More than 5 years,Manufacturing and trade,Between 1 and 4,Couple with dependent children,Metro,20% Less productive
+3,1982,Male,More than 5 years,Public and utility services,More than 200,One  parent family with dependent children,Metro,10% Less productive
+4,1987,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+5,1991,Male,More than 5 years,Public and utility services,Between 5 and 19,Couple with no dependent children,Metro,20% More productive
+6,1989,Male,Between 1 and 5 years,Retail and Food,Between 20 and 199,Single person,Metro,No change
+7,1973,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+8,1992,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,30% Less productive
+9,1977,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,30% More productive
+10,1985,Male,More than 5 years,Public and utility services,More than 200,Group household,Metro,20% Less productive
+11,1980,Female,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,No change
+12,1989,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% More productive
+13,1994,Female,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,10% Less productive
+14,1970,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+15,1962,Female,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,No change
+16,1959,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,No change
+17,1971,Female,More than 5 years,Public and utility services,Between 1 and 4,Couple with no dependent children,Metro,50% More productive
+18,1960,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% Less productive
+19,1966,Male,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+20,1969,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+21,1961,Male,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,No change
+22,1969,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+23,1959,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+24,1963,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,40% More productive
+25,1962,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+26,1965,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Metro,30% Less productive
+27,1962,Female,More than 5 years,Service Industry,More than 200,Other one family household,Metro,10% Less productive
+28,1963,Female,More than 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,No change
+29,1984,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,30% More productive
+30,1957,Male,More than 5 years,Service Industry,I am the only employee,Single person,Regional,30% More productive
+31,1962,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+32,1958,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+33,1961,Male,Between 6 and 12 months,Retail and Food,More than 200,Couple with no dependent children,Metro,30% Less productive
+34,1959,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+35,1980,Female,More than 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,No change
+36,1991,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+37,1973,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+38,1971,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,30% More productive
+39,1996,Male,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,20% Less productive
+40,1975,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+41,1996,Female,Between 6 and 12 months,Retail and Food,Between 20 and 199,Single person,Metro,20% Less productive
+42,1987,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+43,1966,Female,Between 6 and 12 months,Public and utility services,More than 200,Couple with no dependent children,Metro,30% More productive
+44,1976,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,Single person,Metro,50% More productive
+45,1967,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+46,1965,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% Less productive
+47,1961,Female,More than 5 years,Public and utility services,Between 5 and 19,Couple with no dependent children,Metro,10% Less productive
+48,1964,Male,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,30% More productive
+49,1978,Female,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,10% More productive
+50,1979,Male,Between 6 and 12 months,Service Industry,More than 200,Multiple family household,Metro,30% Less productive
+51,1974,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,10% Less productive
+52,1969,Male,More than 5 years,Retail and Food,I am the only employee,Single person,Regional,No change
+53,1995,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Metro,40% More productive
+54,1960,Female,More than 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Metro,No change
+55,1985,Male,More than 5 years,Public and utility services,More than 200,Single person,Metro,50% More productive
+56,1962,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+57,1964,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% Less productive
+58,1965,Male,Between 1 and 5 years,Public and utility services,More than 200,Single person,Metro,20% More productive
+59,1988,Male,Between 1 and 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,10% More productive
+60,1959,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Regional,40% More productive
+61,1966,Female,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,50% More productive
+62,1960,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Metro,30% Less productive
+63,1979,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Multiple family household,Metro,20% More productive
+64,1966,Female,More than 5 years,Service Industry,Between 5 and 19,Single person,Metro,No change
+65,1956,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+66,1962,Female,More than 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Metro,No change
+67,1957,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+68,1986,Male,More than 5 years,Public and utility services,More than 200,Single person,Metro,40% Less productive
+69,1987,Female,Between 1 and 5 years,Retail and Food,Between 1 and 4,Other one family household,Metro,30% More productive
+70,1964,Female,More than 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,50% More productive
+71,1961,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,10% Less productive
+72,1987,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+73,1959,Female,More than 5 years,Service Industry,I am the only employee,Single person,Metro,20% More productive
+74,1985,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+75,1985,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+76,1992,Female,More than 5 years,Service Industry,Between 5 and 19,Single person,Metro,50% More productive
+77,1961,Female,Between 1 and 5 years,Retail and Food,I am the only employee,Single person,Regional,20% More productive
+78,1973,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+79,1963,Female,More than 5 years,Service Industry,I am the only employee,Couple with dependent children,Metro,No change
+80,1968,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,40% More productive
+81,1961,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,10% Less productive
+82,1968,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+83,1964,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% More productive
+84,1969,Male,More than 5 years,Service Industry,More than 200,One  parent family with dependent children,Metro,No change
+85,1968,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,50% More productive
+86,1965,Male,Between 6 and 12 months,Retail and Food,Between 5 and 19,One  parent family with dependent children,Metro,No change
+87,1964,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,50% Less productive
+88,1957,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+89,1970,Female,More than 5 years,Service Industry,More than 200,One  parent family with dependent children,Metro,No change
+90,1980,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,30% More productive
+91,1974,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,No change
+92,1960,Male,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,50% More productive
+93,1963,Male,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,20% Less productive
+94,1986,Female,Between 6 and 12 months,Retail and Food,Between 20 and 199,Other one family household,Metro,No change
+95,2000,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Group household,Metro,30% Less productive
+96,1971,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Regional,10% More productive
+97,1970,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Single person,Metro,10% More productive
+98,1964,Male,More than 5 years,Retail and Food,More than 200,Single person,Metro,10% Less productive
+99,1960,Female,More than 5 years,Public and utility services,Between 1 and 4,Multiple family household,Metro,No change
+100,1962,Male,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+101,1974,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+102,1959,Male,More than 5 years,Retail and Food,Between 1 and 4,Couple with no dependent children,Metro,50% More productive
+103,1955,Male,More than 5 years,Service Industry,More than 200,Other one family household,Metro,50% More productive
+104,1960,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+105,1961,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+106,1959,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,No change
+107,1968,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+108,1969,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+109,1968,Male,Between 6 and 12 months,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,10% Less productive
+110,1990,Male,Between 1 and 5 years,Retail and Food,Between 20 and 199,Couple with no dependent children,Metro,No change
+111,1960,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+112,1994,Female,Between 6 and 12 months,Service Industry,More than 200,Group household,Metro,30% More productive
+113,1959,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+114,1990,Male,Between 1 and 5 years,Retail and Food,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+115,1960,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+116,1962,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+117,1972,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+118,1957,Male,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,20% More productive
+119,1964,Male,More than 5 years,Retail and Food,Between 1 and 4,Couple with no dependent children,Metro,20% More productive
+120,1970,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+121,1962,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,10% Less productive
+122,1959,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,10% More productive
+123,1963,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,No change
+124,1970,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+125,1963,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,No change
+126,1964,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,30% More productive
+127,1965,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,No change
+128,1983,Female,Between 1 and 5 years,Retail and Food,More than 200,Single person,Metro,No change
+129,1965,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,20% More productive
+130,1980,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,No change
+131,1988,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,10% Less productive
+132,1955,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+133,1974,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+134,1981,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+135,1977,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,40% More productive
+136,1967,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+137,1966,Female,Between 1 and 5 years,Service Industry,I am the only employee,Couple with dependent children,Metro,50% More productive
+138,1958,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,10% More productive
+139,1995,Female,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+140,1971,Female,Between 1 and 5 years,Retail and Food,Between 20 and 199,One  parent family with dependent children,Metro,50% More productive
+141,1961,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,10% More productive
+142,1982,Female,More than 5 years,Service Industry,I am the only employee,Couple with no dependent children,Metro,50% More productive
+143,1977,Female,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Regional,No change
+144,1991,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Metro,50% More productive
+145,1977,Female,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,20% Less productive
+146,1989,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,50% More productive
+147,1973,Female,More than 5 years,Manufacturing and trade,I am the only employee,One  parent family with dependent children,Regional,30% More productive
+148,1991,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+149,1987,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+150,1993,Female,More than 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Metro,40% Less productive
+151,1975,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+152,1996,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+153,1991,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,20% Less productive
+154,1990,Female,More than 5 years,Public and utility services,Between 1 and 4,Single person,Metro,No change
+155,1990,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+156,1998,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+157,1990,Male,Between 6 and 12 months,Manufacturing and trade,Between 20 and 199,Group household,Metro,20% More productive
+158,1957,Female,More than 5 years,Public and utility services,More than 200,Single person,Metro,10% Less productive
+159,1971,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,40% Less productive
+160,1987,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+161,1967,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Regional,30% Less productive
+162,1964,Female,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,50% More productive
+163,1976,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+164,1990,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,One  parent family with dependent children,Metro,50% More productive
+165,1965,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+166,1970,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+167,1967,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,One  parent family with dependent children,Metro,No change
+168,1989,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,30% More productive
+169,1965,Male,More than 5 years,Manufacturing and trade,I am the only employee,Single person,Metro,20% More productive
+170,1983,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+171,1978,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+172,1989,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,No change
+173,1985,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+174,1976,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+175,1990,Female,Between 1 and 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Metro,No change
+176,1956,Female,More than 5 years,Service Industry,I am the only employee,Single person,Metro,30% More productive
+177,1995,Female,Between 6 and 12 months,Service Industry,I am the only employee,Couple with no dependent children,Metro,No change
+178,1977,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,10% More productive
+179,1975,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+180,1961,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+181,1973,Female,More than 5 years,Service Industry,I am the only employee,Couple with no dependent children,Regional,No change
+182,1969,Female,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Single person,Metro,20% More productive
+183,1995,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+184,1973,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% Less productive
+185,1964,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+186,1992,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Regional,20% More productive
+187,1970,Female,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,20% Less productive
+188,1981,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,10% Less productive
+189,1990,Female,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,50% More productive
+190,1992,Female,Between 1 and 5 years,Public and utility services,More than 200,Single person,Regional,30% More productive
+191,1983,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Regional,20% Less productive
+192,1986,Female,More than 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Regional,30% More productive
+193,1969,Female,More than 5 years,Public and utility services,I am the only employee,Couple with no dependent children,Regional,50% More productive
+194,1963,Female,Between 1 and 5 years,Service Industry,More than 200,One  parent family with dependent children,Regional,50% More productive
+195,1975,Female,More than 5 years,Service Industry,More than 200,Single person,Regional,50% More productive
+196,1966,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Regional,20% Less productive
+197,1956,Female,More than 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Regional,20% Less productive
+198,1960,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Regional,30% More productive
+199,1958,Female,More than 5 years,Service Industry,Between 20 and 199,Single person,Regional,20% More productive
+200,1958,Female,Between 1 and 5 years,Service Industry,I am the only employee,Couple with no dependent children,Regional,No change
+201,1964,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,No change
+202,1960,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Regional,No change
+203,1972,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,One  parent family with dependent children,Regional,20% More productive
+204,1988,Female,Between 1 and 5 years,Service Industry,More than 200,Other one family household,Regional,No change
+205,1977,Female,Between 1 and 5 years,Retail and Food,I am the only employee,Couple with dependent children,Regional,No change
+206,1973,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,50% More productive
+207,1988,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,20% More productive
+208,1956,Male,More than 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Regional,50% Less productive
+209,1957,Male,More than 5 years,Retail and Food,Between 1 and 4,Single person,Regional,30% Less productive
+210,1958,Male,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Regional,No change
+211,1975,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+212,1993,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+213,1986,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+214,1997,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+215,1994,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+216,1991,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+217,1993,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+218,1981,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% Less productive
+219,1987,Male,More than 5 years,Retail and Food,More than 200,Single person,Metro,No change
+220,1982,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+221,1986,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+222,1967,Female,More than 5 years,Manufacturing and trade,More than 200,One  parent family with dependent children,Metro,20% More productive
+223,1971,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+224,1987,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,50% Less productive
+225,1987,Female,Between 1 and 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,30% More productive
+226,1972,Male,Between 1 and 5 years,Retail and Food,Between 20 and 199,One  parent family with dependent children,Metro,30% More productive
+227,1977,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,30% More productive
+228,1982,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,40% More productive
+229,1900,Male,Between 6 and 12 months,Manufacturing and trade,Between 1 and 4,Couple with dependent children,Metro,50% More productive
+230,1961,Female,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+231,1975,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+232,1967,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,20% More productive
+233,1955,Female,More than 5 years,Retail and Food,Between 1 and 4,One  parent family with dependent children,Regional,No change
+234,1979,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,No change
+235,1958,Male,More than 5 years,Service Industry,Between 1 and 4,Single person,Metro,20% More productive
+236,1994,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+237,1975,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,No change
+238,1978,Female,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,40% More productive
+239,1956,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,20% More productive
+240,1987,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+241,1989,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+242,1990,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% Less productive
+243,1965,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Group household,Metro,50% More productive
+244,1985,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+245,1992,Female,Between 6 and 12 months,Service Industry,More than 200,Group household,Metro,No change
+246,1981,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+247,1971,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Regional,No change
+248,1977,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,No change
+249,1999,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% Less productive
+250,1980,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+251,1977,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Regional,40% More productive
+252,1990,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% Less productive
+253,1974,Female,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+254,1988,Female,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,30% Less productive
+255,1984,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,10% Less productive
+256,1990,Female,Between 1 and 5 years,Retail and Food,Between 20 and 199,Couple with no dependent children,Metro,No change
+257,1967,Male,Between 1 and 5 years,Public and utility services,More than 200,Single person,Regional,No change
+258,1968,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+259,1967,Male,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with dependent children,Metro,20% Less productive
+260,1959,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+261,1960,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,30% More productive
+262,1991,Female,Between 6 and 12 months,Service Industry,Between 1 and 4,Couple with dependent children,Regional,40% More productive
+263,1973,Male,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,No change
+264,1984,Male,Between 1 and 5 years,Public and utility services,More than 200,One  parent family with dependent children,Metro,20% Less productive
+265,1990,Female,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Regional,50% More productive
+266,1962,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+267,1987,Female,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,No change
+268,1974,Male,Between 1 and 5 years,Retail and Food,Between 5 and 19,Couple with dependent children,Regional,50% Less productive
+269,1956,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+270,1961,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,30% More productive
+271,1962,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+272,1960,Male,Between 1 and 5 years,Service Industry,I am the only employee,Couple with no dependent children,Metro,10% More productive
+273,1960,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,20% Less productive
+274,1960,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,10% More productive
+275,1962,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+276,1960,Male,More than 5 years,Retail and Food,Between 20 and 199,Single person,Metro,40% More productive
+277,1997,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Single person,Metro,40% More productive
+278,1995,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+279,1973,Male,More than 5 years,Service Industry,More than 200,One  parent family with dependent children,Metro,20% More productive
+280,1960,Female,Between 1 and 5 years,Service Industry,I am the only employee,Couple with no dependent children,Metro,50% More productive
+281,1963,Male,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,20% Less productive
+282,1964,Male,Between 1 and 5 years,Retail and Food,Between 5 and 19,Single person,Metro,20% More productive
+283,1957,Male,More than 5 years,Manufacturing and trade,Between 5 and 19,Other one family household,Metro,30% More productive
+284,1979,Female,More than 5 years,Service Industry,I am the only employee,Single person,Metro,20% Less productive
+285,1957,Male,More than 5 years,Retail and Food,Between 1 and 4,Couple with no dependent children,Metro,No change
+286,1962,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+287,1966,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,No change
+288,1961,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Regional,20% More productive
+289,1973,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,10% More productive
+290,1955,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+291,1968,Male,More than 5 years,Manufacturing and trade,Between 1 and 4,Couple with no dependent children,Metro,40% More productive
+292,1961,Female,More than 5 years,Service Industry,More than 200,Other one family household,Metro,50% More productive
+293,1985,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+294,1978,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% Less productive
+295,1960,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,50% Less productive
+296,1986,Male,More than 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,10% More productive
+297,1964,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Single person,Metro,No change
+298,1959,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+299,1957,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,20% More productive
+300,1997,Male,Between 1 and 5 years,Service Industry,More than 200,Group household,Metro,No change
+301,1960,Male,More than 5 years,Service Industry,Between 5 and 19,Single person,Metro,30% More productive
+302,1963,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,One  parent family with dependent children,Metro,10% Less productive
+303,1964,Male,More than 5 years,Public and utility services,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+304,1986,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,40% More productive
+305,1979,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+306,1971,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% Less productive
+307,1960,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,30% Less productive
+308,1963,Male,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,30% More productive
+309,1977,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% Less productive
+310,1986,Male,Between 1 and 5 years,Retail and Food,Between 20 and 199,Group household,Metro,20% More productive
+311,1987,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% Less productive
+312,1961,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+313,1985,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+314,1962,Male,Between 1 and 5 years,Public and utility services,Between 5 and 19,Couple with dependent children,Metro,No change
+315,1990,Rather not say,Between 1 and 5 years,Service Industry,Between 5 and 19,Other one family household,Metro,30% More productive
+316,1989,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+317,1984,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+318,1985,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,10% More productive
+319,1990,Female,Between 1 and 5 years,Service Industry,More than 200,Multiple family household,Metro,30% More productive
+320,1963,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,50% More productive
+321,1957,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+322,1963,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+323,1970,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,40% More productive
+324,1958,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+325,1959,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,50% More productive
+326,1971,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Metro,20% Less productive
+327,1961,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,No change
+328,1962,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+329,1986,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+330,1959,Female,Between 6 and 12 months,Public and utility services,More than 200,Couple with no dependent children,Metro,20% More productive
+331,1987,Male,More than 5 years,Service Industry,Between 20 and 199,Other one family household,Metro,50% Less productive
+332,1972,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+333,1968,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+334,1975,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,No change
+335,1969,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+336,1959,Male,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with dependent children,Metro,40% More productive
+337,1964,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+338,1965,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+339,1972,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+340,1990,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,10% More productive
+341,1957,Male,More than 5 years,Service Industry,More than 200,Single person,Regional,30% Less productive
+342,1965,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,50% More productive
+343,1978,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+344,1972,Female,Between 6 and 12 months,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,No change
+345,1972,Male,More than 5 years,Service Industry,More than 200,Single person,Regional,50% More productive
+346,1969,Male,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,20% More productive
+347,1963,Female,Between 1 and 5 years,Service Industry,More than 200,One  parent family with dependent children,Metro,40% More productive
+348,1975,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+349,1965,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,30% More productive
+350,1967,Male,More than 5 years,Public and utility services,More than 200,Single person,Metro,40% More productive
+351,1997,Female,Between 1 and 5 years,Public and utility services,More than 200,One  parent family with dependent children,Metro,No change
+352,1990,Male,Between 6 and 12 months,Manufacturing and trade,I am the only employee,One  parent family with dependent children,Regional,50% More productive
+353,1962,Male,More than 5 years,Retail and Food,Between 5 and 19,Single person,Regional,30% More productive
+354,1978,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+355,1984,Female,Between 1 and 5 years,Public and utility services,Between 5 and 19,Couple with no dependent children,Metro,20% Less productive
+356,1961,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,20% More productive
+357,1958,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,10% More productive
+358,1969,Male,More than 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+359,1971,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+360,1972,Female,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,30% More productive
+361,1979,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Regional,30% More productive
+362,1966,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+363,1959,Female,More than 5 years,Retail and Food,Between 5 and 19,Single person,Regional,30% More productive
+364,1995,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+365,1983,Female,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,30% Less productive
+366,1968,Male,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,20% Less productive
+367,1966,Male,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,No change
+368,1969,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,20% Less productive
+369,1966,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with no dependent children,Metro,20% More productive
+370,1964,Female,More than 5 years,Retail and Food,I am the only employee,Multiple family household,Regional,No change
+371,1969,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+372,1981,Male,Between 1 and 5 years,Service Industry,I am the only employee,Couple with no dependent children,Metro,50% More productive
+373,1970,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,40% More productive
+374,1970,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+375,1957,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Regional,50% Less productive
+376,1966,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,30% Less productive
+377,1969,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+378,1989,Female,More than 5 years,Retail and Food,Between 20 and 199,Group household,Metro,50% More productive
+379,1966,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+380,1985,Male,Between 1 and 5 years,Public and utility services,Between 5 and 19,Couple with no dependent children,Metro,50% More productive
+381,1988,Male,More than 5 years,Retail and Food,I am the only employee,Group household,Metro,20% More productive
+382,1974,Female,More than 5 years,Retail and Food,Between 20 and 199,Couple with no dependent children,Metro,40% More productive
+383,1972,Male,More than 5 years,Service Industry,More than 200,One  parent family with dependent children,Metro,30% More productive
+384,1957,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+385,1966,Male,More than 5 years,Public and utility services,More than 200,Single person,Metro,20% Less productive
+386,1956,Male,More than 5 years,Service Industry,I am the only employee,Couple with no dependent children,Metro,20% More productive
+387,1989,Female,Between 6 and 12 months,Service Industry,More than 200,Group household,Metro,30% More productive
+388,1974,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,30% More productive
+389,1968,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+390,1966,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+391,1960,Male,More than 5 years,Public and utility services,Between 5 and 19,Couple with no dependent children,Metro,10% Less productive
+392,1963,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+393,1983,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+394,1957,Male,Between 1 and 5 years,Service Industry,Between 1 and 4,Single person,Metro,20% More productive
+395,1985,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+396,1961,Male,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,30% More productive
+397,1988,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Group household,Metro,20% More productive
+398,1996,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+399,1958,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,30% More productive
+400,1977,Female,More than 5 years,Service Industry,Between 5 and 19,Single person,Regional,No change
+401,1983,Male,Between 6 and 12 months,Public and utility services,Between 5 and 19,Couple with dependent children,Metro,10% More productive
+402,1968,Female,Between 1 and 5 years,Retail and Food,Between 1 and 4,Couple with no dependent children,Metro,20% More productive
+403,1982,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+404,1970,Female,More than 5 years,Retail and Food,Between 1 and 4,Couple with dependent children,Metro,No change
+405,1968,Male,More than 5 years,Retail and Food,More than 200,One  parent family with dependent children,Metro,40% More productive
+406,1971,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,50% More productive
+407,1985,Female,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,10% More productive
+408,1983,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+409,1970,Male,More than 5 years,Service Industry,Between 1 and 4,Group household,Metro,10% Less productive
+410,1971,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+411,1956,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with no dependent children,Metro,No change
+412,1969,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,No change
+413,1981,Female,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,30% More productive
+414,1957,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,40% More productive
+415,1971,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% Less productive
+416,1967,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Other one family household,Metro,No change
+417,1984,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+418,2000,Female,Between 1 and 5 years,Service Industry,I am the only employee,Couple with dependent children,Metro,20% Less productive
+419,1972,Female,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,No change
+420,1994,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,50% More productive
+421,1972,Female,More than 5 years,Service Industry,More than 200,One  parent family with dependent children,Metro,10% Less productive
+422,1959,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+423,1965,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% More productive
+424,1978,Female,Between 1 and 5 years,Service Industry,I am the only employee,Couple with no dependent children,Metro,No change
+425,1979,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+426,1974,Male,Between 1 and 5 years,Retail and Food,More than 200,Group household,Metro,No change
+427,1966,Female,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,30% More productive
+428,1980,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% Less productive
+429,1958,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+430,1969,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+431,1991,Female,Between 6 and 12 months,Retail and Food,More than 200,Couple with no dependent children,Metro,No change
+432,1987,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% Less productive
+433,1985,Male,Between 1 and 5 years,Retail and Food,More than 200,Couple with dependent children,Regional,No change
+434,1961,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+435,1968,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% Less productive
+436,1986,Female,More than 5 years,Service Industry,Between 20 and 199,Group household,Regional,50% More productive
+437,1956,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% Less productive
+438,1968,Male,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,50% More productive
+439,1973,Female,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,No change
+440,1984,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,20% Less productive
+441,1967,Male,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,No change
+442,1964,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+443,1963,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+444,1961,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+445,1971,Female,More than 5 years,Service Industry,More than 200,Single person,Regional,10% Less productive
+446,1994,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,No change
+447,1978,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Single person,Metro,20% More productive
+448,1966,Female,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,10% More productive
+449,1965,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,50% More productive
+450,1965,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,50% More productive
+451,1960,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,50% More productive
+452,1988,Male,Between 1 and 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,No change
+453,1958,Female,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,No change
+454,1959,Female,Between 6 and 12 months,Service Industry,Between 5 and 19,Single person,Regional,No change
+455,1959,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,20% More productive
+456,1963,Female,Between 6 and 12 months,Manufacturing and trade,Between 20 and 199,One  parent family with dependent children,Metro,40% More productive
+457,1996,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,No change
+458,1984,Male,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+459,1959,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+460,1961,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,10% More productive
+461,1980,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+462,1972,Female,Between 1 and 5 years,Public and utility services,I am the only employee,Couple with no dependent children,Metro,10% Less productive
+463,1965,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+464,1970,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+465,1988,Male,More than 5 years,Retail and Food,I am the only employee,Group household,Regional,No change
+466,1980,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+467,1963,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+468,1961,Male,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,30% More productive
+469,1980,Male,More than 5 years,Retail and Food,More than 200,Single person,Metro,No change
+470,1973,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+471,2000,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+472,1985,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,10% Less productive
+473,1956,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% More productive
+474,1961,Female,Between 1 and 5 years,Public and utility services,I am the only employee,Couple with dependent children,Metro,20% More productive
+475,1990,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+476,1959,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+477,1979,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+478,1976,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,30% More productive
+479,1986,Female,More than 5 years,Service Industry,More than 200,Single person,Regional,20% More productive
+480,1964,Female,More than 5 years,Public and utility services,Between 5 and 19,Couple with no dependent children,Metro,50% Less productive
+481,1956,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% Less productive
+482,1992,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+483,1960,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,20% Less productive
+484,1958,Male,Between 1 and 5 years,Public and utility services,More than 200,Single person,Metro,30% More productive
+485,1996,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+486,1964,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% Less productive
+487,1988,Male,More than 5 years,Service Industry,More than 200,Other one family household,Regional,10% Less productive
+488,1973,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Regional,No change
+489,1988,Female,Between 6 and 12 months,Public and utility services,Between 20 and 199,Couple with no dependent children,Metro,20% Less productive
+490,1962,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+491,1988,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+492,1982,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,One  parent family with dependent children,Metro,No change
+493,1989,Male,Between 1 and 5 years,Service Industry,More than 200,Other one family household,Metro,10% More productive
+494,1987,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% Less productive
+495,1985,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,No change
+496,1990,Female,More than 5 years,Service Industry,More than 200,Group household,Metro,No change
+497,1971,Female,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,No change
+498,1983,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Regional,30% More productive
+499,1981,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,No change
+500,1985,Female,More than 5 years,Service Industry,More than 200,Other one family household,Metro,No change
+501,1963,Female,More than 5 years,Manufacturing and trade,Between 20 and 199,Multiple family household,Regional,50% More productive
+502,1966,Male,More than 5 years,Service Industry,Between 20 and 199,Multiple family household,Metro,No change
+503,1984,Female,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Regional,20% Less productive
+504,1982,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% Less productive
+505,1977,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+506,1980,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,40% More productive
+507,1958,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+508,1982,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Regional,50% More productive
+509,1978,Male,More than 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Metro,No change
+510,1982,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+511,1982,Female,Between 6 and 12 months,Public and utility services,More than 200,Couple with no dependent children,Regional,50% More productive
+512,1992,Female,Between 1 and 5 years,Retail and Food,Between 20 and 199,Multiple family household,Metro,No change
+513,1993,Male,Between 6 and 12 months,Public and utility services,More than 200,Single person,Metro,No change
+514,1967,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,No change
+515,1973,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,One  parent family with dependent children,Metro,10% Less productive
+516,1995,Female,Between 6 and 12 months,Service Industry,Between 5 and 19,Group household,Metro,20% Less productive
+517,1988,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+518,1962,Male,More than 5 years,Public and utility services,More than 200,Other one family household,Metro,10% Less productive
+519,1991,Male,Between 1 and 5 years,Public and utility services,Between 5 and 19,Single person,Regional,No change
+520,1957,Male,Between 6 and 12 months,Service Industry,More than 200,Single person,Regional,No change
+521,1987,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Single person,Regional,50% More productive
+522,1985,Female,Between 1 and 5 years,Retail and Food,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+523,1983,Male,More than 5 years,Service Industry,Between 1 and 4,Single person,Metro,30% Less productive
+524,1965,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,No change
+525,1978,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+526,1966,Female,More than 5 years,Public and utility services,Between 1 and 4,Multiple family household,Metro,30% More productive
+527,1968,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% Less productive
+528,1965,Male,Between 1 and 5 years,Retail and Food,Between 20 and 199,Couple with no dependent children,Metro,No change
+529,1977,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+530,1971,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,50% More productive
+531,1960,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,50% More productive
+532,1968,Male,More than 5 years,Public and utility services,More than 200,Single person,Metro,20% More productive
+533,1984,Female,Between 1 and 5 years,Service Industry,I am the only employee,Single person,Metro,No change
+534,1992,Female,Between 1 and 5 years,Retail and Food,More than 200,Other one family household,Metro,30% More productive
+535,1966,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,20% More productive
+536,2000,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,40% More productive
+537,1983,Male,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,10% Less productive
+538,1958,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Regional,No change
+539,1973,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+540,1985,Female,Between 6 and 12 months,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+541,1980,Male,Between 1 and 5 years,Service Industry,I am the only employee,Couple with dependent children,Metro,30% More productive
+542,1973,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,10% More productive
+543,1960,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,No change
+544,1994,Male,Between 6 and 12 months,Manufacturing and trade,More than 200,Couple with no dependent children,Regional,20% Less productive
+545,1963,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,10% More productive
+546,1978,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+547,1973,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,30% Less productive
+548,1974,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+549,1988,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+550,1992,Female,Between 1 and 5 years,Service Industry,More than 200,Group household,Metro,50% More productive
+551,1960,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Regional,30% More productive
+552,1959,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+553,1960,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+554,1968,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Regional,No change
+555,1967,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Regional,20% Less productive
+556,1995,Female,More than 5 years,Service Industry,Between 20 and 199,Other one family household,Metro,No change
+557,1980,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% Less productive
+558,1964,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,30% More productive
+559,1970,Male,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,No change
+560,1964,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+561,1984,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+562,1976,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,20% More productive
+563,1980,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+564,1986,Female,More than 5 years,Service Industry,More than 200,Multiple family household,Metro,10% Less productive
+565,1975,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% More productive
+566,1989,Male,Between 1 and 5 years,Retail and Food,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+567,1979,Female,More than 5 years,Manufacturing and trade,More than 200,Group household,Metro,40% More productive
+568,1998,Female,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+569,1982,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+570,1975,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Regional,20% More productive
+571,1965,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+572,1960,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+573,1964,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Regional,30% More productive
+574,1987,Female,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Metro,20% Less productive
+575,1970,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+576,1978,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,30% More productive
+577,1964,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+578,1988,Female,Between 1 and 5 years,Public and utility services,More than 200,One  parent family with dependent children,Regional,No change
+579,1974,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+580,1982,Female,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,20% More productive
+581,1978,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,No change
+582,1974,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,20% Less productive
+583,1970,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,40% More productive
+584,1993,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,40% More productive
+585,1981,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,No change
+586,1981,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,10% Less productive
+587,1974,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% Less productive
+588,1960,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Group household,Metro,No change
+589,1976,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,40% More productive
+590,1971,Female,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,No change
+591,1957,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,No change
+592,1974,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+593,1988,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,20% More productive
+594,1965,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Regional,20% More productive
+595,1985,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+596,1990,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,20% Less productive
+597,1990,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+598,1977,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,40% More productive
+599,1970,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+600,1978,Female,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Regional,30% Less productive
+601,1969,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,50% More productive
+602,1986,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+603,1974,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+604,1977,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,20% Less productive
+605,1989,Male,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,No change
+606,1962,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,40% More productive
+607,1964,Male,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+608,1990,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,No change
+609,1976,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,40% More productive
+610,1969,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+611,1956,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,10% Less productive
+612,1976,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+613,1981,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Regional,20% More productive
+614,1977,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+615,1986,Male,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,20% More productive
+616,1976,Male,More than 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,20% More productive
+617,1987,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+618,1988,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,10% More productive
+619,1980,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,10% Less productive
+620,1990,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+621,1978,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+622,1961,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Regional,30% More productive
+623,1964,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,No change
+624,1957,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+625,1992,Female,More than 5 years,Service Industry,Between 20 and 199,Single person,Regional,50% More productive
+626,1976,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,10% Less productive
+627,1976,Male,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,30% More productive
+628,1978,Female,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,30% More productive
+629,1975,Male,More than 5 years,Public and utility services,More than 200,Single person,Metro,50% More productive
+630,1971,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,40% More productive
+631,1969,Female,More than 5 years,Public and utility services,More than 200,One  parent family with dependent children,Metro,20% Less productive
+632,1989,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% More productive
+633,1978,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+634,1983,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Regional,40% More productive
+635,1957,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,20% Less productive
+636,1989,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,10% More productive
+637,1958,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,20% More productive
+638,1988,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+639,1957,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+640,1961,Male,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,No change
+641,1972,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,No change
+642,1956,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,10% More productive
+643,1967,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+644,1970,Male,Between 6 and 12 months,Service Industry,Between 5 and 19,Single person,Regional,50% Less productive
+645,1979,Male,Between 6 and 12 months,Retail and Food,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+646,1987,Male,Between 1 and 5 years,Retail and Food,Between 5 and 19,Couple with dependent children,Metro,No change
+647,1965,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,No change
+648,1966,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% Less productive
+649,1962,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+650,1970,Female,More than 5 years,Public and utility services,I am the only employee,Single person,Metro,No change
+651,1990,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+652,1972,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,No change
+653,1981,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Regional,30% More productive
+654,1969,Male,More than 5 years,Manufacturing and trade,More than 200,Single person,Metro,30% Less productive
+655,1985,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+656,1981,Male,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+657,1960,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,20% More productive
+658,1988,Female,Between 1 and 5 years,Service Industry,More than 200,Group household,Metro,30% Less productive
+659,1986,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Regional,No change
+660,1966,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+661,1966,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,20% More productive
+662,1960,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Regional,20% Less productive
+663,1970,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+664,1984,Male,More than 5 years,Public and utility services,More than 200,Single person,Metro,10% More productive
+665,1985,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+666,1982,Male,More than 5 years,Service Industry,More than 200,Group household,Metro,10% More productive
+667,1985,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Group household,Metro,20% More productive
+668,1975,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,20% More productive
+669,1979,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+670,1976,Male,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+671,1980,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+672,1985,Male,Between 1 and 5 years,Service Industry,More than 200,Group household,Metro,30% More productive
+673,1988,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,No change
+674,1984,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Regional,20% Less productive
+675,1973,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,50% More productive
+676,1971,Male,Between 1 and 5 years,Service Industry,I am the only employee,Couple with no dependent children,Metro,No change
+677,1962,Female,More than 5 years,Public and utility services,More than 200,Single person,Metro,50% More productive
+678,1972,Male,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,10% More productive
+679,1986,Male,Between 1 and 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,No change
+680,1995,Male,Between 6 and 12 months,Service Industry,Between 1 and 4,Single person,Metro,20% More productive
+681,1984,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,40% More productive
+682,1977,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,No change
+683,1965,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,No change
+684,1964,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Regional,20% More productive
+685,1985,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% More productive
+686,1982,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Regional,50% More productive
+687,1958,Male,More than 5 years,Retail and Food,Between 1 and 4,Couple with dependent children,Metro,40% More productive
+688,1960,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+689,1987,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+690,1984,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+691,1960,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,30% More productive
+692,1962,Female,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Regional,20% Less productive
+693,1956,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+694,1986,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% Less productive
+695,1958,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+696,1959,Male,More than 5 years,Service Industry,I am the only employee,Single person,Regional,10% More productive
+697,1955,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,30% More productive
+698,1988,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Single person,Metro,10% Less productive
+699,1985,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+700,1970,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Multiple family household,Metro,No change
+701,1991,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,50% More productive
+702,1986,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Regional,50% More productive
+703,1987,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,40% Less productive
+704,1956,Male,More than 5 years,Manufacturing and trade,Between 1 and 4,Couple with no dependent children,Metro,50% More productive
+705,1989,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% Less productive
+706,1968,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+707,1965,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,40% More productive
+708,1988,Male,Between 1 and 5 years,Retail and Food,Between 1 and 4,Group household,Metro,No change
+709,1990,Male,Between 1 and 5 years,Service Industry,More than 200,Group household,Metro,No change
+710,1988,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,20% Less productive
+711,1985,Male,Between 6 and 12 months,Public and utility services,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+712,1957,Female,More than 5 years,Service Industry,I am the only employee,Couple with no dependent children,Regional,No change
+713,1987,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+714,1989,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+715,1986,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+716,1958,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% Less productive
+717,1991,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+718,1963,Male,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Regional,No change
+719,1987,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,40% More productive
+720,1963,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,20% More productive
+721,1986,Female,Between 6 and 12 months,Retail and Food,Between 5 and 19,Single person,Metro,30% Less productive
+722,1969,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+723,1960,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+724,1990,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,Group household,Metro,20% Less productive
+725,1955,Female,Between 1 and 5 years,Service Industry,I am the only employee,Couple with no dependent children,Metro,40% More productive
+726,1961,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,No change
+727,1963,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+728,1979,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+729,1992,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+730,1974,Female,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,30% More productive
+731,1965,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,20% More productive
+732,1973,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+733,1964,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+734,1975,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+735,1982,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,40% More productive
+736,1984,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+737,1976,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,50% More productive
+738,1976,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+739,1978,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,20% Less productive
+740,1976,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Group household,Metro,50% More productive
+741,1981,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+742,1968,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,10% More productive
+743,1977,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+744,1970,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+745,1972,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,10% More productive
+746,1981,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+747,1970,Male,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,20% More productive
+748,1964,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+749,1961,Male,More than 5 years,Public and utility services,More than 200,Group household,Metro,No change
+750,1988,Male,More than 5 years,Retail and Food,More than 200,Group household,Metro,No change
+751,1976,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Single person,Metro,No change
+752,1984,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+753,1964,Female,Between 1 and 5 years,Public and utility services,Between 5 and 19,Single person,Metro,No change
+754,1975,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+755,1971,Male,More than 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,30% Less productive
+756,1973,Female,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+757,1971,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,20% More productive
+758,1971,Female,More than 5 years,Service Industry,More than 200,Other one family household,Metro,50% More productive
+759,1966,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+760,1971,Female,Between 1 and 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,50% More productive
+761,1977,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,50% More productive
+762,1974,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+763,1977,Female,More than 5 years,Service Industry,More than 200,Multiple family household,Regional,No change
+764,1956,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% Less productive
+765,1964,Female,More than 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Metro,No change
+766,1958,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+767,1966,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,40% More productive
+768,1959,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+769,1959,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+770,1961,Male,More than 5 years,Manufacturing and trade,I am the only employee,Single person,Metro,No change
+771,1978,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+772,1989,Male,Between 1 and 5 years,Retail and Food,More than 200,Other one family household,Metro,20% More productive
+773,1984,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,20% Less productive
+774,1988,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,40% Less productive
+775,1989,Female,More than 5 years,Manufacturing and trade,Between 1 and 4,Couple with no dependent children,Regional,No change
+776,1986,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,No change
+777,1968,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+778,1987,Male,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,No change
+779,1981,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+780,1966,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Regional,10% Less productive
+781,1971,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,20% Less productive
+782,1978,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,30% Less productive
+783,1983,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,40% More productive
+784,1957,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Regional,20% More productive
+785,1986,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+786,1984,Female,More than 5 years,Public and utility services,More than 200,Single person,Metro,30% More productive
+787,1975,Male,More than 5 years,Service Industry,Between 1 and 4,Single person,Metro,10% Less productive
+788,1961,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+789,1962,Female,More than 5 years,Retail and Food,More than 200,Single person,Metro,30% More productive
+790,1965,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+791,1982,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+792,1964,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+793,1981,Female,Between 1 and 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,20% Less productive
+794,1971,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+795,1989,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Regional,40% More productive
+796,1991,Female,More than 5 years,Retail and Food,More than 200,Single person,Regional,No change
+797,1957,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,No change
+798,1974,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+799,1991,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+800,1995,Female,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+801,1959,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,10% More productive
+802,1983,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,50% More productive
+803,1988,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+804,1993,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+805,1973,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,20% Less productive
+806,1975,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,One  parent family with dependent children,Metro,50% More productive
+807,1992,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+808,1966,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,30% More productive
+809,1983,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,40% Less productive
+810,1969,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+811,1985,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Regional,No change
+812,1982,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+813,1977,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,No change
+814,1966,Female,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+815,1973,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+816,1968,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+817,1964,Female,More than 5 years,Service Industry,Between 20 and 199,One  parent family with dependent children,Metro,50% More productive
+818,1965,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,50% More productive
+819,1980,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,40% More productive
+820,1965,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,No change
+821,1977,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+822,1978,Female,Between 1 and 5 years,Retail and Food,Between 20 and 199,Couple with no dependent children,Metro,20% Less productive
+823,1967,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+824,1975,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,One  parent family with dependent children,Metro,50% More productive
+825,1970,Female,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,50% More productive
+826,1994,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,40% More productive
+827,1957,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,20% More productive
+828,1966,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+829,1968,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,50% More productive
+830,1990,Female,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+831,1975,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+832,1970,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,One  parent family with dependent children,Metro,10% More productive
+833,1983,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+834,1967,Male,More than 5 years,Service Industry,Between 20 and 199,Multiple family household,Metro,No change
+835,1977,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+836,1976,Male,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,20% Less productive
+837,1974,Female,More than 5 years,Service Industry,More than 200,Group household,Metro,50% More productive
+838,1960,Male,Between 1 and 5 years,Service Industry,I am the only employee,Couple with no dependent children,Regional,20% Less productive
+839,1987,Male,More than 5 years,Public and utility services,Between 5 and 19,Single person,Metro,30% Less productive
+840,1985,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+841,1977,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% Less productive
+842,1988,Male,More than 5 years,Service Industry,Between 20 and 199,Multiple family household,Metro,No change
+843,1966,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,20% More productive
+844,1986,Male,Between 1 and 5 years,Service Industry,More than 200,Group household,Metro,No change
+845,1964,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,One  parent family with dependent children,Metro,50% More productive
+846,1976,Male,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,20% More productive
+847,1970,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,20% Less productive
+848,1983,Female,More than 5 years,Service Industry,I am the only employee,Couple with dependent children,Metro,No change
+849,1960,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+850,1975,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,10% Less productive
+851,1982,Male,Between 6 and 12 months,Retail and Food,More than 200,Couple with no dependent children,Metro,10% Less productive
+852,1977,Female,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+853,1980,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% Less productive
+854,1958,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+855,1963,Female,More than 5 years,Public and utility services,Between 1 and 4,Couple with no dependent children,Regional,50% More productive
+856,1959,Female,More than 5 years,Service Industry,Between 20 and 199,Single person,Regional,No change
+857,1978,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+858,1972,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+859,1957,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,10% More productive
+860,1971,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+861,1979,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% Less productive
+862,1994,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+863,1977,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,No change
+864,1966,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+865,1963,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Regional,10% Less productive
+866,1976,Female,Between 1 and 5 years,Service Industry,I am the only employee,Couple with dependent children,Metro,50% More productive
+867,1967,Male,More than 5 years,Service Industry,I am the only employee,Couple with dependent children,Regional,10% Less productive
+868,1967,Male,More than 5 years,Retail and Food,More than 200,Group household,Metro,40% More productive
+869,1989,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+870,1981,Female,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,One  parent family with dependent children,Metro,50% More productive
+871,1975,Male,Between 6 and 12 months,Service Industry,More than 200,Other one family household,Metro,20% More productive
+872,1980,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+873,1983,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+874,1979,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+875,1970,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Regional,30% More productive
+876,1961,Male,More than 5 years,Public and utility services,I am the only employee,Single person,Regional,10% More productive
+877,1976,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,No change
+878,1989,Male,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,20% More productive
+879,1958,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% Less productive
+880,1967,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,20% More productive
+881,1961,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+882,1961,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+883,1967,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,No change
+884,1965,Female,More than 5 years,Service Industry,More than 200,Multiple family household,Metro,40% More productive
+885,1961,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,No change
+886,1967,Female,More than 5 years,Public and utility services,More than 200,Group household,Metro,10% Less productive
+887,1980,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,20% More productive
+888,1970,Female,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Regional,10% More productive
+889,1978,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,20% More productive
+890,1968,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+891,1958,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Other one family household,Metro,50% More productive
+892,1994,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Other one family household,Metro,20% More productive
+893,1965,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+894,1978,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+895,1969,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+896,1981,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+897,1978,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+898,1963,Female,Between 1 and 5 years,Retail and Food,I am the only employee,Couple with dependent children,Metro,No change
+899,1965,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Regional,50% More productive
+900,1983,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+901,1969,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,40% More productive
+902,1989,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,20% More productive
+903,1972,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+904,1989,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,30% More productive
+905,1957,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+906,1978,Female,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+907,1966,Female,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Regional,No change
+908,1987,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,50% More productive
+909,1970,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Regional,50% More productive
+910,1973,Male,More than 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Metro,No change
+911,1976,Male,More than 5 years,Service Industry,More than 200,Single person,Regional,20% More productive
+912,1978,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+913,1970,Male,More than 5 years,Service Industry,More than 200,Other one family household,Regional,No change
+914,1956,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,30% Less productive
+915,1975,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,50% More productive
+916,1970,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+917,1974,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,10% Less productive
+918,1968,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% Less productive
+919,1975,Male,More than 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Regional,20% More productive
+920,1982,Female,More than 5 years,Public and utility services,Between 20 and 199,Multiple family household,Metro,40% More productive
+921,1977,Female,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,30% More productive
+922,1972,Female,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,50% More productive
+923,1972,Female,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,One  parent family with dependent children,Metro,No change
+924,1979,Female,More than 5 years,Service Industry,Between 5 and 19,Single person,Metro,10% More productive
+925,1978,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+926,1974,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+927,1983,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,No change
+928,1967,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,No change
+929,1961,Male,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Regional,30% More productive
+930,1962,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Regional,20% Less productive
+931,1971,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Single person,Regional,No change
+932,1969,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+933,1988,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+934,1937,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% Less productive
+935,1991,Female,More than 5 years,Retail and Food,Between 20 and 199,Other one family household,Metro,10% Less productive
+936,1982,Female,Between 1 and 5 years,Service Industry,More than 200,Other one family household,Metro,50% More productive
+937,1981,Female,Between 6 and 12 months,Public and utility services,More than 200,Couple with dependent children,Regional,50% More productive
+938,1986,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+939,1983,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% Less productive
+940,1981,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+941,1978,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+942,1985,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,No change
+943,1968,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+944,1959,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+945,1988,Female,Between 6 and 12 months,Retail and Food,Between 5 and 19,One  parent family with dependent children,Metro,No change
+946,1970,Male,More than 5 years,Public and utility services,Between 5 and 19,Couple with dependent children,Regional,20% More productive
+947,1969,Female,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+948,1988,Female,More than 5 years,Retail and Food,Between 5 and 19,Group household,Regional,50% More productive
+949,1972,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+950,1980,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,30% More productive
+951,1985,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+952,1987,Female,Between 1 and 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,No change
+953,1956,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,30% More productive
+954,1965,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+955,1972,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% Less productive
+956,1991,Male,Between 1 and 5 years,Service Industry,More than 200,Group household,Metro,No change
+957,1977,Female,More than 5 years,Retail and Food,Between 5 and 19,Couple with dependent children,Regional,40% More productive
+958,1991,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Other one family household,Regional,No change
+959,1962,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+960,1980,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,30% Less productive
+961,1967,Male,More than 5 years,Public and utility services,More than 200,Single person,Metro,50% Less productive
+962,1971,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% More productive
+963,1965,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,One  parent family with dependent children,Metro,No change
+964,1971,Female,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,One  parent family with dependent children,Metro,10% More productive
+965,1989,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+966,1972,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,50% More productive
+967,1963,Female,More than 5 years,Service Industry,More than 200,Single person,Regional,40% More productive
+968,1980,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+969,1981,Male,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,10% Less productive
+970,1971,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Regional,10% More productive
+971,1986,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+972,1978,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+973,1974,Female,More than 5 years,Service Industry,Between 5 and 19,Single person,Metro,No change
+974,1996,Male,Between 1 and 5 years,Public and utility services,More than 200,Group household,Metro,50% More productive
+975,1961,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+976,1967,Female,More than 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Metro,No change
+977,1975,Female,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,50% Less productive
+978,1990,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,10% More productive
+979,1967,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Single person,Metro,20% Less productive
+980,1967,Male,More than 5 years,Retail and Food,Between 5 and 19,Couple with dependent children,Metro,No change
+981,1987,Female,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,No change
+982,1969,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,10% Less productive
+983,1986,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+984,1967,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,10% Less productive
+985,1962,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,40% More productive
+986,1972,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,No change
+987,1960,Male,More than 5 years,Service Industry,I am the only employee,Single person,Metro,No change
+988,1985,Male,More than 5 years,Service Industry,More than 200,Group household,Metro,30% Less productive
+989,1973,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Single person,Metro,30% More productive
+990,1978,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+991,1995,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,50% More productive
+992,1965,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,No change
+993,1973,Male,More than 5 years,Service Industry,Between 20 and 199,One  parent family with dependent children,Regional,50% More productive
+994,1957,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+995,1977,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+996,1963,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Regional,20% More productive
+997,1977,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+998,1971,Female,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,20% More productive
+999,1980,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+1000,1958,Male,Between 1 and 5 years,Public and utility services,More than 200,Single person,Metro,No change
+1001,1977,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Regional,No change
+1002,1972,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,30% More productive
+1003,1961,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,20% More productive
+1004,1960,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+1005,1969,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,No change
+1006,1971,Female,More than 5 years,Retail and Food,More than 200,Single person,Regional,10% Less productive
+1007,1995,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Single person,Regional,50% More productive
+1008,1966,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% Less productive
+1009,1962,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,50% More productive
+1010,1978,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% Less productive
+1011,1970,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,50% More productive
+1012,1962,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Other one family household,Regional,No change
+1013,1972,Female,Between 1 and 5 years,Manufacturing and trade,More than 200,One  parent family with dependent children,Metro,30% More productive
+1014,1970,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Single person,Metro,30% More productive
+1015,1968,Female,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+1016,1976,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Regional,No change
+1017,1980,Male,More than 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+1018,1982,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,50% More productive
+1019,1965,Female,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+1020,1959,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Regional,30% More productive
+1021,1970,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,10% Less productive
+1022,1983,Female,Between 1 and 5 years,Service Industry,Between 1 and 4,Single person,Metro,No change
+1023,1989,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+1024,1973,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+1025,1979,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+1026,1977,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,20% Less productive
+1027,1968,Male,More than 5 years,Retail and Food,More than 200,Single person,Metro,20% More productive
+1028,1980,Female,More than 5 years,Public and utility services,Between 20 and 199,Single person,Metro,20% More productive
+1029,1970,Female,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,20% More productive
+1030,1968,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+1031,1977,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+1032,1979,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,40% More productive
+1033,1974,Female,Between 6 and 12 months,Manufacturing and trade,Between 1 and 4,Couple with dependent children,Metro,40% More productive
+1034,1965,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+1035,1955,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,30% More productive
+1036,1966,Female,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,One  parent family with dependent children,Metro,20% Less productive
+1037,1978,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+1038,1982,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+1039,1969,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,10% More productive
+1040,1964,Female,More than 5 years,Service Industry,I am the only employee,Couple with no dependent children,Regional,20% More productive
+1041,1976,Female,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,50% More productive
+1042,1964,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Regional,40% More productive
+1043,1977,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+1044,1967,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+1045,1975,Male,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,No change
+1046,1964,Female,More than 5 years,Service Industry,I am the only employee,Single person,Metro,50% More productive
+1047,1966,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+1048,1961,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+1049,1984,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,No change
+1050,1989,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,30% More productive
+1051,1968,Male,Between 6 and 12 months,Public and utility services,Between 5 and 19,Couple with dependent children,Metro,50% Less productive
+1052,1973,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+1053,1964,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,10% Less productive
+1054,1994,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+1055,1975,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Regional,40% More productive
+1056,1963,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,40% More productive
+1057,1970,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+1058,1956,Female,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,No change
+1059,1985,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,One  parent family with dependent children,Regional,10% Less productive
+1060,1962,Female,More than 5 years,Service Industry,Between 20 and 199,Other one family household,Metro,No change
+1061,1964,Male,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+1062,1989,Female,Between 6 and 12 months,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+1063,1979,Male,More than 5 years,Service Industry,Between 5 and 19,Single person,Regional,20% More productive
+1064,1964,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+1065,1973,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,20% More productive
+1066,1957,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+1067,1975,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Group household,Metro,50% More productive
+1068,1959,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% Less productive
+1069,1980,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+1070,1985,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+1071,1976,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+1072,1962,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+1073,1985,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+1074,1960,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+1075,1955,Male,More than 5 years,Service Industry,I am the only employee,Couple with no dependent children,Metro,10% Less productive
+1076,1962,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+1077,1984,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+1078,1964,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+1079,1997,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Single person,Metro,50% More productive
+1080,1963,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Regional,No change
+1081,1972,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+1082,1980,Male,Between 6 and 12 months,Manufacturing and trade,More than 200,One  parent family with dependent children,Metro,30% More productive
+1083,1995,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Group household,Metro,20% Less productive
+1084,1987,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+1085,1993,Female,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,50% More productive
+1086,1976,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Regional,30% More productive
+1087,1989,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Regional,30% More productive
+1088,1972,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+1089,1970,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% Less productive
+1090,1956,Female,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Single person,Metro,30% More productive
+1091,1985,Male,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,10% More productive
+1092,1983,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Regional,30% More productive
+1093,1963,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,10% More productive
+1094,1990,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,20% Less productive
+1095,1966,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,20% More productive
+1096,1978,Male,More than 5 years,Retail and Food,Between 5 and 19,Other one family household,Metro,No change
+1097,1979,Male,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+1098,1960,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+1099,1971,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1100,1984,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,30% More productive
+1101,1971,Female,Between 1 and 5 years,Retail and Food,More than 200,One  parent family with dependent children,Metro,No change
+1102,1984,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,30% More productive
+1103,1945,Male,More than 5 years,Service Industry,Between 5 and 19,Single person,Metro,No change
+1104,1960,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,50% More productive
+1105,1980,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,No change
+1106,1965,Male,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,20% More productive
+1107,1967,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,20% Less productive
+1108,1961,Male,More than 5 years,Retail and Food,Between 5 and 19,Couple with dependent children,Regional,50% More productive
+1109,1990,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+1110,1970,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,40% More productive
+1111,1978,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,40% More productive
+1112,1979,Male,Between 1 and 5 years,Retail and Food,Between 1 and 4,Multiple family household,Regional,50% Less productive
+1113,1980,Female,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+1114,1961,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+1115,1957,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+1116,1984,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1117,1958,Female,More than 5 years,Retail and Food,Between 1 and 4,Group household,Metro,10% Less productive
+1118,1976,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,50% More productive
+1119,1991,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Single person,Metro,30% More productive
+1120,1973,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,No change
+1121,1976,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+1122,1968,Female,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,10% Less productive
+1123,2000,Male,Between 1 and 5 years,Public and utility services,More than 200,Single person,Regional,No change
+1124,1980,Female,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,50% More productive
+1125,1995,Female,Between 6 and 12 months,Retail and Food,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+1126,1985,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+1127,1990,Female,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+1128,1985,Male,Between 6 and 12 months,Retail and Food,Between 5 and 19,Couple with dependent children,Metro,20% Less productive
+1129,1985,Male,More than 5 years,Retail and Food,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+1130,1977,Male,Between 6 and 12 months,Public and utility services,Between 20 and 199,Couple with dependent children,Regional,10% More productive
+1131,1973,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,50% More productive
+1132,1986,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Single person,Metro,20% More productive
+1133,1978,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+1134,1981,Female,More than 5 years,Manufacturing and trade,Between 5 and 19,Single person,Metro,50% More productive
+1135,1980,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+1136,1982,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+1137,1963,Female,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+1138,1997,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Other one family household,Metro,No change
+1139,1975,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,20% More productive
+1140,1969,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,10% More productive
+1141,1998,Male,Between 1 and 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,50% More productive
+1142,1992,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+1143,1990,Female,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with no dependent children,Metro,20% More productive
+1144,1995,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,10% Less productive
+1145,2000,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1146,1969,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,30% More productive
+1147,1968,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+1148,1963,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% Less productive
+1149,1977,Male,Between 6 and 12 months,Manufacturing and trade,More than 200,Couple with dependent children,Metro,20% More productive
+1150,1956,Female,Between 1 and 5 years,Service Industry,I am the only employee,Couple with no dependent children,Metro,50% More productive
+1151,1975,Female,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,10% More productive
+1152,1985,Male,More than 5 years,Manufacturing and trade,More than 200,Single person,Metro,20% More productive
+1153,1993,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with dependent children,Regional,50% More productive
+1154,1956,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,50% Less productive
+1155,1962,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,20% More productive
+1156,1983,Male,Between 6 and 12 months,Retail and Food,Between 5 and 19,One  parent family with dependent children,Metro,30% More productive
+1157,1963,Male,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,No change
+1158,2000,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Single person,Metro,20% More productive
+1159,1975,Female,More than 5 years,Retail and Food,Between 1 and 4,Couple with dependent children,Metro,50% More productive
+1160,1988,Female,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+1161,1989,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,40% More productive
+1162,1970,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1163,1971,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+1164,1985,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,40% More productive
+1165,1990,Male,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+1166,1992,Female,Between 6 and 12 months,Service Industry,More than 200,Group household,Metro,No change
+1167,1973,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+1168,1981,Male,More than 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,50% More productive
+1169,1956,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,30% More productive
+1170,1962,Female,Between 1 and 5 years,Service Industry,More than 200,One  parent family with dependent children,Regional,50% More productive
+1171,1991,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+1172,1982,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Metro,30% More productive
+1173,1973,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,50% More productive
+1174,1983,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+1175,1987,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,20% Less productive
+1176,1973,Female,Between 6 and 12 months,Service Industry,Between 5 and 19,Single person,Metro,50% Less productive
+1177,1985,Female,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,One  parent family with dependent children,Regional,20% Less productive
+1178,1997,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,No change
+1179,1989,Male,More than 5 years,Service Industry,I am the only employee,Group household,Metro,20% More productive
+1180,1993,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+1181,1976,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with no dependent children,Metro,30% More productive
+1182,1963,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+1183,1989,Male,More than 5 years,Service Industry,I am the only employee,Single person,Metro,No change
+1184,1984,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Regional,10% More productive
+1185,2001,Female,Between 6 and 12 months,Service Industry,More than 200,Group household,Metro,50% Less productive
+1186,1985,Female,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,One  parent family with dependent children,Regional,30% Less productive
+1187,1975,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+1188,1986,Male,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,30% More productive
+1189,1978,Female,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+1190,1979,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Regional,50% More productive
+1191,1991,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,10% Less productive
+1192,1965,Male,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Regional,30% More productive
+1193,1961,Female,More than 5 years,Service Industry,More than 200,One  parent family with dependent children,Metro,30% More productive
+1194,1990,Male,Between 6 and 12 months,Retail and Food,Between 20 and 199,Single person,Regional,10% More productive
+1195,1990,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Single person,Metro,20% Less productive
+1196,1993,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,No change
+1197,1966,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+1198,1996,Male,Between 1 and 5 years,Retail and Food,More than 200,Single person,Metro,10% Less productive
+1199,1996,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Regional,10% Less productive
+1200,1993,Male,Between 1 and 5 years,Retail and Food,More than 200,One  parent family with dependent children,Metro,No change
+1201,1957,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,40% More productive
+1202,1964,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,10% Less productive
+1203,1989,Male,More than 5 years,Service Industry,I am the only employee,Group household,Metro,30% More productive
+1204,1981,Male,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+1205,1984,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,50% More productive
+1206,1985,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Single person,Metro,No change
+1207,1970,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% Less productive
+1208,1995,Female,More than 5 years,Service Industry,More than 200,Single person,Regional,No change
+1209,1975,Female,More than 5 years,Service Industry,Between 1 and 4,Single person,Metro,No change
+1210,1962,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+1211,1979,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,30% More productive
+1212,1978,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Regional,20% More productive
+1213,1964,Male,Between 6 and 12 months,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,40% More productive
+1214,1971,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1215,1982,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+1216,1985,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with no dependent children,Regional,No change
+1217,1965,Female,More than 5 years,Manufacturing and trade,More than 200,Single person,Metro,50% More productive
+1218,1980,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+1219,1984,Female,Between 1 and 5 years,Service Industry,More than 200,Group household,Metro,No change
+1220,1971,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+1221,1992,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,No change
+1222,1900,Female,Between 1 and 5 years,Public and utility services,More than 200,Single person,Metro,50% More productive
+1223,1991,Female,Between 1 and 5 years,Public and utility services,More than 200,Other one family household,Regional,30% Less productive
+1224,1985,Male,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,One  parent family with dependent children,Metro,20% More productive
+1225,1995,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+1226,1956,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,10% More productive
+1227,1968,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,50% More productive
+1228,1991,Male,Between 6 and 12 months,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,20% Less productive
+1229,1990,Male,Between 1 and 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,No change
+1230,1981,Male,More than 5 years,Public and utility services,More than 200,Single person,Metro,30% Less productive
+1231,1991,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,No change
+1232,1959,Female,More than 5 years,Public and utility services,More than 200,Other one family household,Regional,50% More productive
+1233,1984,Female,Between 6 and 12 months,Manufacturing and trade,Between 1 and 4,Couple with dependent children,Metro,20% More productive
+1234,1969,Female,More than 5 years,Retail and Food,I am the only employee,Other one family household,Metro,No change
+1235,1959,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% Less productive
+1236,1983,Male,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with dependent children,Metro,No change
+1237,1988,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Single person,Metro,No change
+1238,1959,Male,Between 1 and 5 years,Public and utility services,I am the only employee,Couple with dependent children,Metro,No change
+1239,1971,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,50% More productive
+1240,1980,Female,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Regional,30% More productive
+1241,1995,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+1242,1970,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Single person,Metro,No change
+1243,1988,Female,Between 1 and 5 years,Retail and Food,More than 200,Single person,Metro,No change
+1244,1962,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+1245,1980,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+1246,1964,Male,More than 5 years,Public and utility services,Between 1 and 4,Single person,Regional,10% Less productive
+1247,1973,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1248,1980,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,Couple with dependent children,Metro,No change
+1249,1983,Female,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,10% More productive
+1250,1980,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% Less productive
+1251,1981,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+1252,1991,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,40% More productive
+1253,1968,Female,More than 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,10% Less productive
+1254,1986,Male,Between 1 and 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,30% Less productive
+1255,1998,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Multiple family household,Metro,50% More productive
+1256,1987,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% Less productive
+1257,1986,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,10% Less productive
+1258,1980,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+1259,1973,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,10% More productive
+1260,1982,Male,More than 5 years,Manufacturing and trade,More than 200,Multiple family household,Regional,20% More productive
+1261,1975,Male,More than 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Metro,40% More productive
+1262,1962,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,20% Less productive
+1263,1985,Male,Between 6 and 12 months,Retail and Food,Between 5 and 19,Couple with no dependent children,Metro,10% More productive
+1264,1961,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,50% More productive
+1265,1957,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,10% Less productive
+1266,1980,Female,Between 1 and 5 years,Public and utility services,More than 200,Group household,Metro,50% More productive
+1267,1961,Female,More than 5 years,Retail and Food,I am the only employee,Couple with no dependent children,Regional,No change
+1268,1986,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Multiple family household,Metro,30% More productive
+1269,1986,Male,More than 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,40% More productive
+1270,1966,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+1271,2000,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,10% More productive
+1272,1962,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Regional,No change
+1273,1984,Male,Between 6 and 12 months,Service Industry,More than 200,Single person,Metro,30% More productive
+1274,1961,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+1275,1960,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,10% Less productive
+1276,1987,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% Less productive
+1277,1956,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,10% More productive
+1278,1964,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,10% Less productive
+1279,1984,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,10% More productive
+1280,1983,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+1281,1985,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+1282,1968,Female,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with no dependent children,Metro,No change
+1283,1990,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+1284,1980,Female,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Regional,50% More productive
+1285,1955,Female,Between 6 and 12 months,Public and utility services,Between 5 and 19,Couple with no dependent children,Metro,No change
+1286,1978,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+1287,1964,Male,Between 1 and 5 years,Retail and Food,Between 1 and 4,Couple with dependent children,Metro,20% More productive
+1288,1958,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+1289,1990,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Single person,Metro,No change
+1290,1984,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,No change
+1291,1960,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+1292,1969,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+1293,1975,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1294,1957,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,30% More productive
+1295,1988,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,30% Less productive
+1296,1988,Male,More than 5 years,Service Industry,Between 20 and 199,Group household,Metro,10% Less productive
+1297,1991,Female,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,10% More productive
+1298,1970,Female,More than 5 years,Service Industry,More than 200,Single person,Metro,40% More productive
+1299,1987,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,40% More productive
+1300,1990,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+1301,1961,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,No change
+1302,1972,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+1303,1978,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Regional,30% More productive
+1304,1990,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Metro,10% Less productive
+1305,1994,Male,More than 5 years,Service Industry,Between 1 and 4,Group household,Metro,No change
+1306,1990,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+1307,1958,Female,More than 5 years,Public and utility services,Between 5 and 19,Couple with no dependent children,Regional,40% More productive
+1308,1972,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,40% More productive
+1309,1984,Female,More than 5 years,Service Industry,Between 5 and 19,Group household,Metro,20% More productive
+1310,1967,Female,More than 5 years,Retail and Food,Between 1 and 4,Couple with dependent children,Regional,No change
+1311,1977,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1312,1995,Female,Between 1 and 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,20% More productive
+1313,1963,Male,More than 5 years,Service Industry,I am the only employee,Couple with dependent children,Regional,50% More productive
+1314,1979,Male,Between 1 and 5 years,Retail and Food,Between 1 and 4,Couple with no dependent children,Regional,No change
+1315,1990,Male,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Regional,30% More productive
+1316,1998,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Multiple family household,Metro,No change
+1317,1972,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1318,1989,Male,More than 5 years,Public and utility services,More than 200,Single person,Metro,No change
+1319,1970,Male,Between 6 and 12 months,Public and utility services,More than 200,Couple with dependent children,Metro,No change
+1320,1969,Female,Between 1 and 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,50% More productive
+1321,1983,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+1322,1989,Female,Between 1 and 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Regional,10% Less productive
+1323,1971,Male,Between 6 and 12 months,Public and utility services,More than 200,Couple with dependent children,Regional,20% More productive
+1324,1969,Female,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,30% More productive
+1325,1972,Female,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,No change
+1326,1974,Female,More than 5 years,Retail and Food,More than 200,Couple with dependent children,Regional,50% More productive
+1327,1995,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Single person,Metro,40% More productive
+1328,1990,Male,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,10% More productive
+1329,1992,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+1330,1977,Male,Between 1 and 5 years,Manufacturing and trade,Between 1 and 4,Couple with dependent children,Metro,40% More productive
+1331,1987,Female,Between 6 and 12 months,Public and utility services,Between 5 and 19,Couple with no dependent children,Metro,No change
+1332,1979,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Regional,20% More productive
+1333,1992,Male,Between 6 and 12 months,Service Industry,More than 200,Group household,Metro,20% Less productive
+1334,1995,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,40% More productive
+1335,1974,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,30% More productive
+1336,1960,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+1337,1989,Female,Between 6 and 12 months,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+1338,1984,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1339,1981,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,10% More productive
+1340,1990,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,20% Less productive
+1341,1987,Male,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Regional,30% More productive
+1342,1993,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Multiple family household,Regional,10% Less productive
+1343,1978,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Regional,30% More productive
+1344,1963,Female,Between 6 and 12 months,Service Industry,More than 200,One  parent family with dependent children,Regional,50% More productive
+1345,1976,Female,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+1346,1996,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+1347,1974,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,20% More productive
+1348,1969,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,40% More productive
+1349,1960,Male,More than 5 years,Service Industry,I am the only employee,Single person,Metro,No change
+1350,1990,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,20% More productive
+1351,1964,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+1352,1998,Female,Between 1 and 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,30% Less productive
+1353,1994,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+1354,1978,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% Less productive
+1355,1992,Female,More than 5 years,Retail and Food,Between 20 and 199,Single person,Regional,30% More productive
+1356,1989,Female,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,Multiple family household,Regional,50% More productive
+1357,1960,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Regional,No change
+1358,1974,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,50% Less productive
+1359,1975,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,40% More productive
+1360,1971,Male,Between 1 and 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,10% More productive
+1361,1956,Male,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with no dependent children,Regional,20% More productive
+1362,1964,Female,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,No change
+1363,1976,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,30% More productive
+1364,1988,Female,Between 1 and 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Metro,No change
+1365,1987,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+1366,1969,Female,More than 5 years,Public and utility services,I am the only employee,Single person,Metro,50% More productive
+1367,1987,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+1368,1996,Female,Between 1 and 5 years,Service Industry,More than 200,One  parent family with dependent children,Metro,30% More productive
+1369,1957,Female,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,50% More productive
+1370,1978,Male,Between 1 and 5 years,Retail and Food,Between 20 and 199,Single person,Metro,No change
+1371,1981,Female,Between 6 and 12 months,Service Industry,Between 5 and 19,One  parent family with dependent children,Metro,No change
+1372,1959,Male,Between 1 and 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Metro,No change
+1373,1964,Male,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+1374,1960,Female,More than 5 years,Manufacturing and trade,More than 200,Single person,Metro,50% More productive
+1375,1963,Female,More than 5 years,Public and utility services,More than 200,Multiple family household,Metro,No change
+1376,1972,Female,Between 1 and 5 years,Retail and Food,More than 200,One  parent family with dependent children,Metro,30% More productive
+1377,1958,Male,More than 5 years,Manufacturing and trade,I am the only employee,Couple with dependent children,Regional,50% More productive
+1378,1985,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,30% More productive
+1379,1964,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,50% More productive
+1380,1965,Male,More than 5 years,Manufacturing and trade,More than 200,Single person,Metro,No change
+1381,1977,Female,More than 5 years,Public and utility services,Between 20 and 199,One  parent family with dependent children,Regional,30% More productive
+1382,1977,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,No change
+1383,1982,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Couple with no dependent children,Metro,40% More productive
+1384,1972,Female,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,10% Less productive
+1385,1957,Female,More than 5 years,Retail and Food,Between 5 and 19,Couple with no dependent children,Regional,50% More productive
+1386,1994,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,No change
+1387,1957,Male,Between 1 and 5 years,Service Industry,I am the only employee,Couple with dependent children,Metro,No change
+1388,1956,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Regional,No change
+1389,1961,Female,Between 6 and 12 months,Manufacturing and trade,Between 20 and 199,Single person,Regional,20% More productive
+1390,1982,Male,More than 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,10% Less productive
+1391,1984,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,No change
+1392,1973,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+1393,1971,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,10% Less productive
+1394,1979,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+1395,1978,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+1396,1961,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,50% More productive
+1397,1995,Female,Between 1 and 5 years,Service Industry,More than 200,Multiple family household,Metro,No change
+1398,1958,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,No change
+1399,1977,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+1400,1987,Female,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,50% More productive
+1401,1972,Male,More than 5 years,Service Industry,Between 1 and 4,Single person,Regional,No change
+1402,1956,Female,More than 5 years,Service Industry,Between 20 and 199,Other one family household,Metro,20% Less productive
+1403,1969,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,No change
+1404,1964,Male,More than 5 years,Public and utility services,Between 1 and 4,Single person,Regional,10% More productive
+1405,1957,Male,More than 5 years,Retail and Food,Between 1 and 4,Couple with no dependent children,Metro,10% More productive
+1406,1990,Male,Between 6 and 12 months,Manufacturing and trade,Between 20 and 199,Single person,Metro,30% More productive
+1407,1994,Male,Between 6 and 12 months,Manufacturing and trade,More than 200,Couple with dependent children,Metro,50% More productive
+1408,2001,Male,Between 6 and 12 months,Manufacturing and trade,Between 20 and 199,Single person,Metro,20% More productive
+1409,1958,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,No change
+1410,1981,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% Less productive
+1411,1978,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+1412,1985,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,40% More productive
+1413,1975,Male,More than 5 years,Retail and Food,Between 1 and 4,Couple with dependent children,Metro,No change
+1414,1961,Male,More than 5 years,Service Industry,More than 200,Single person,Metro,No change
+1415,1985,Male,More than 5 years,Manufacturing and trade,More than 200,One  parent family with dependent children,Metro,No change
+1416,1966,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,No change
+1417,2000,Male,Between 6 and 12 months,Manufacturing and trade,Between 20 and 199,Couple with no dependent children,Metro,10% Less productive
+1418,1973,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,10% More productive
+1419,1974,Rather not say,More than 5 years,Service Industry,Between 1 and 4,One  parent family with dependent children,Metro,No change
+1420,1979,Female,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,50% More productive
+1421,1983,Male,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,20% Less productive
+1422,1977,Female,Between 6 and 12 months,Public and utility services,More than 200,Single person,Metro,10% Less productive
+1423,1965,Male,More than 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,20% Less productive
+1424,1979,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,30% More productive
+1425,1981,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+1426,1964,Female,More than 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Metro,No change
+1427,1974,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,50% More productive
+1428,1963,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+1429,1983,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,20% More productive
+1430,1959,Female,More than 5 years,Service Industry,More than 200,Other one family household,Metro,10% Less productive
+1431,1976,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,10% More productive
+1432,1981,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+1433,1967,Female,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,50% More productive
+1434,1962,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,No change
+1435,1971,Female,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,50% More productive
+1436,1989,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Regional,40% More productive
+1437,1989,Male,Between 6 and 12 months,Service Industry,Between 5 and 19,Group household,Regional,50% More productive
+1438,1970,Male,More than 5 years,Service Industry,Between 5 and 19,Group household,Metro,30% More productive
+1439,1988,Male,Between 6 and 12 months,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,50% More productive
+1440,1994,Male,Between 6 and 12 months,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,40% More productive
+1441,1991,Female,Between 1 and 5 years,Public and utility services,More than 200,Other one family household,Regional,10% Less productive
+1442,1975,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with no dependent children,Metro,50% More productive
+1443,1984,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+1444,1977,Male,More than 5 years,Service Industry,Between 20 and 199,Single person,Metro,20% More productive
+1445,1980,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Regional,No change
+1446,1973,Male,Between 1 and 5 years,Public and utility services,Between 1 and 4,Couple with dependent children,Metro,10% Less productive
+1447,1970,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Regional,40% More productive
+1448,1957,Male,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,20% More productive
+1449,1959,Female,More than 5 years,Service Industry,I am the only employee,Couple with no dependent children,Regional,50% More productive
+1450,1970,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,30% More productive
+1451,1969,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,10% Less productive
+1452,1986,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,30% More productive
+1453,1956,Male,More than 5 years,Service Industry,I am the only employee,Couple with dependent children,Regional,20% Less productive
+1454,1959,Male,Between 1 and 5 years,Public and utility services,I am the only employee,Multiple family household,Metro,No change
+1455,1977,Female,More than 5 years,Service Industry,I am the only employee,Couple with dependent children,Metro,No change
+1456,1989,Male,More than 5 years,Manufacturing and trade,More than 200,Couple with no dependent children,Metro,30% More productive
+1457,1966,Female,Between 1 and 5 years,Retail and Food,I am the only employee,Couple with no dependent children,Regional,50% More productive
+1458,1989,Male,More than 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,20% More productive
+1459,1984,Female,Between 1 and 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,10% More productive
+1460,1983,Female,Between 6 and 12 months,Service Industry,Between 5 and 19,Couple with dependent children,Metro,No change
+1461,1985,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+1462,1959,Female,Between 1 and 5 years,Public and utility services,Between 1 and 4,Couple with dependent children,Metro,40% More productive
+1463,1966,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Regional,No change
+1464,1988,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,30% Less productive
+1465,1987,Male,Between 1 and 5 years,Service Industry,Between 5 and 19,Single person,Metro,10% More productive
+1466,1990,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,40% More productive
+1467,1980,Male,More than 5 years,Service Industry,More than 200,Multiple family household,Metro,No change
+1468,1981,Female,Between 1 and 5 years,Manufacturing and trade,Between 20 and 199,One  parent family with dependent children,Metro,No change
+1469,1981,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Metro,20% More productive
+1470,1967,Female,Between 1 and 5 years,Public and utility services,Between 5 and 19,One  parent family with dependent children,Regional,No change
+1471,1982,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Metro,No change
+1472,1996,Male,Between 1 and 5 years,Retail and Food,More than 200,Single person,Metro,10% Less productive
+1473,1985,Male,Between 1 and 5 years,Service Industry,More than 200,Single person,Metro,No change
+1474,1986,Female,Between 6 and 12 months,Service Industry,Between 20 and 199,One  parent family with dependent children,Metro,20% More productive
+1475,1970,Female,More than 5 years,Service Industry,Between 20 and 199,One  parent family with dependent children,Metro,20% More productive
+1476,1992,Female,Between 1 and 5 years,Retail and Food,More than 200,Group household,Metro,30% Less productive
+1477,1979,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with no dependent children,Metro,30% Less productive
+1478,1993,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,No change
+1479,1976,Male,More than 5 years,Service Industry,Between 1 and 4,Couple with dependent children,Metro,10% More productive
+1480,1980,Female,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Regional,10% More productive
+1481,1960,Female,More than 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,20% More productive
+1482,1987,Male,Between 1 and 5 years,Public and utility services,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+1483,1980,Female,Between 1 and 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,40% More productive
+1484,1977,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,20% More productive
+1485,1990,Female,More than 5 years,Service Industry,More than 200,Group household,Metro,50% More productive
+1486,1967,Male,More than 5 years,Public and utility services,Between 20 and 199,Single person,Metro,50% Less productive
+1487,1978,Male,More than 5 years,Retail and Food,Between 20 and 199,Couple with dependent children,Regional,30% More productive
+1488,1962,Male,Between 1 and 5 years,Manufacturing and trade,More than 200,Couple with dependent children,Regional,No change
+1489,1989,Female,Between 1 and 5 years,Service Industry,More than 200,Couple with no dependent children,Metro,50% More productive
+1490,1986,Male,More than 5 years,Service Industry,More than 200,Couple with dependent children,Metro,10% More productive
+1491,1976,Male,More than 5 years,Service Industry,Between 20 and 199,Couple with dependent children,Metro,30% More productive
+1492,1969,Female,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Metro,30% More productive
+1493,1987,Male,More than 5 years,Retail and Food,More than 200,Couple with no dependent children,Regional,30% More productive
+1494,1990,Male,Between 1 and 5 years,Manufacturing and trade,Between 5 and 19,Couple with dependent children,Metro,40% More productive
+1495,1986,Male,Between 1 and 5 years,Retail and Food,More than 200,Couple with dependent children,Metro,40% Less productive
+1496,1961,Female,More than 5 years,Public and utility services,More than 200,One  parent family with dependent children,Metro,30% More productive
+1497,1986,Female,More than 5 years,Service Industry,Between 1 and 4,Couple with no dependent children,Regional,10% More productive
+1498,1977,Female,More than 5 years,Public and utility services,More than 200,Couple with dependent children,Metro,20% More productive
+1499,1979,Male,Between 1 and 5 years,Retail and Food,Between 1 and 4,Couple with no dependent children,Regional,No change
+1500,1976,Female,Between 1 and 5 years,Retail and Food,Between 5 and 19,Couple with dependent children,Metro,30% More productive
+1501,1974,Male,Between 1 and 5 years,Service Industry,More than 200,Couple with dependent children,Regional,20% More productive
+1502,1992,Male,Between 6 and 12 months,Service Industry,More than 200,Group household,Metro,20% Less productive
+1503,1995,Male,Between 1 and 5 years,Service Industry,Between 20 and 199,Single person,Metro,30% More productive
+1504,1990,Female,More than 5 years,Manufacturing and trade,Between 20 and 199,Couple with dependent children,Metro,10% Less productive
+1505,1998,Male,Between 1 and 5 years,Public and utility services,Between 20 and 199,Single person,Metro,50% More productive
+1506,1968,Female,Between 1 and 5 years,Public and utility services,More than 200,Couple with no dependent children,Metro,40% More productive
+1507,1980,Male,More than 5 years,Service Industry,Between 5 and 19,Couple with dependent children,Metro,30% More productive
